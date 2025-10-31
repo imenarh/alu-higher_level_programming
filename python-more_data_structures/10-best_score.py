@@ -2,7 +2,7 @@
 
 
 def best_score(a_dictionary):
-    if len(a_dictionary)>0:
+    if a_dictionary:
         best_value = 0
         best_key = 0
         for i, value in a_dictionary.items():

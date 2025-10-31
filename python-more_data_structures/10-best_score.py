@@ -10,4 +10,4 @@ def best_score(a_dictionary):
                 best_key = i
                 best_value = value
         return best_key
-    return a_dictionary  
+    return None  

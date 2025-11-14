@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-'''
-empty class
-'''
+#empty class
 
 class Square:
     """defines a square"""

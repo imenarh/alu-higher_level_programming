@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This module defines a class Square with a public instance method area."""
+"""Defines a class Square with a public instance method area."""
 
 
 class Square:

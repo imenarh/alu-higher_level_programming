@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This module defines a class Square with a property setter and getter for size."""
+"""Defines a class Square with a property setter and getter for size."""
 
 
 class Square:

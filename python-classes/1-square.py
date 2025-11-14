@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This module defines a class Square with a private instance attribute size."""
+"""Defines a class Square with a private instance attribute size."""
 
 
 class Square:

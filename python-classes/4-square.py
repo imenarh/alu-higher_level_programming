@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-"""Defne a class square."""
+"""This module defines a class Square with a property setter and getter for size."""
 
 
 class Square:
-    """Represents a square."""
+    """Represents a square with a property setter and getter for size."""
 
     def __init__(self, size=0):
         """Initialize a new square.

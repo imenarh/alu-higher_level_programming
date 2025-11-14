@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-"""Define a class Square."""
+"""This module defines a class Square with a public instance method my_print."""
 
 
 class Square:
-    """Represent a square."""
+    """Represents a square with a public instance method my_print."""
 
     def __init__(self, size=0):
         """Initialize a new square.

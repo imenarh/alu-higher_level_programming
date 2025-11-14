@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-"""Defines a class square."""
+"""This module defines a class Square with a private instance attribute size."""
 
 
 class Square:
-    """Represent a square."""
+    """Represents a square with a private instance attribute size."""
 
     def __init__(self, size):
         """Initializes a new Square.

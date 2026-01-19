@@ -2,11 +2,15 @@
 
 const { argv } = require('node:process');
 
+let num;
 argv.forEach((val, index) => {
-	if (index <= 1) {
-	  console.log('No argument');
-	  process.exit(0);
-	}else{
-	  console.log(val);
-	}
+  num=index;	
 });
+
+if (num <= 1) {
+  console.log('No argument');
+}else {
+ for (i=2; i<=num; i++) {
+    console.log(argv[i]);
+ }
+}
